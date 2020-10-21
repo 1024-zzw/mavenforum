@@ -1,0 +1,38 @@
+ body{
+	background:url("../material/bg05.jpg") no-repeat;
+	background-size: cover;
+}
+
+form{
+	margin-top: 200px;
+	
+}
+
+.control-label{
+	margin-left: 175px;
+	
+}
+
+.btn-default{
+	margin-top: 25px;
+	margin-left: 200px;
+}
+
+.form-horizontal{
+	background-color: white;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	margin-left: 400px;
+	margin-right: 400px;
+	border:8px solid #C1CFD9;
+	border-radius:7px;
+}
+
+#lognow{
+	margin-left: 575px;
+	color: pink;
+}
+
+#showlock{
+	display: none;
+}

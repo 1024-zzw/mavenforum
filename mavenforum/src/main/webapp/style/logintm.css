@@ -1,0 +1,32 @@
+#resultdiv{
+    margin-top: 20px;
+    /* 将该div块进行隐藏 */
+    display:none;
+ }
+
+ #resulttable{
+     margin: 0px auto;
+     width: 500px;
+ }
+
+ 
+ #pagectrl{
+    /*该div中的字体大小  */
+    font-size: 0.8em;
+    /*将该div块居中  */
+    text-align:center;
+    display:none;
+
+ }
+
+ #prePageSpan{
+    display:none;
+}
+
+#nextPageSpan{
+    display:none;
+}
+#searchBtn{
+    display:none;
+}
+
